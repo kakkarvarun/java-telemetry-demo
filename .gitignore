@@ -1,0 +1,20 @@
+# Maven / Java
+target/
+*.class
+*.log
+.classpath
+.project
+.settings/
+.DS_Store
+
+# IDE / Editor
+.vscode/
+.idea/
+*.iml
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Local tools (we'll put Prometheus/Grafana here later if needed)
+tools/
